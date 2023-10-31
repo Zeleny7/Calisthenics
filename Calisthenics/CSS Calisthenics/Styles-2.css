@@ -1,0 +1,100 @@
+body {background-color:#266867;}
+
+:root {
+  --main-bg-color:#FFBF00;
+}
+
+/*flexbox*/
+.flex-c1 {
+  display:flex;
+  background-color: #3AAfA9;
+  align-items:center ;
+  margin-left:28px;
+  border-radius:30px;
+  }
+  /*flexbox*/
+  .flex-c1 > div {
+    margin:10px;
+    padding:10px;
+    }
+
+    .column1 {
+      float:left;
+      width:15%;
+      height:100%;
+      text-align: center;
+      }
+/*flexbox*/
+.flexcalisthenicstitle {
+  color:#F28500;
+  }
+
+h1 {
+  font-size: 80px;
+  padding-left:5px;
+  margin:20px;
+  }
+h2 {
+  font-size: 50px;
+  padding-top:50px;
+  padding-left:45px;
+  padding-right:40px;
+  }
+    p {
+      font-size: 25px; font-family: cursive;
+      }
+    pre {
+      font-size: 25px;font-family: cursive;
+      }
+
+      a {
+        text-decoration:none;
+        font-size:30px;
+        font-family:cursive;
+        }
+
+      a:link, a:visited {
+          background-color:#3AAfA9;
+          color:black;
+          padding: 15px 25px;
+          border-style:solid;
+          border-color: #F28500;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          }
+      a:hover, a:active {
+          background-color:#F28500;
+          }
+
+
+
+      hr.footerhr {
+        border-width: 15px;
+        border-color: var(--main-bg-color);
+        border-style:solid;
+        }
+    
+/* Footer */
+.flexfooter {
+  display: flex;
+  background-color: #393840;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-bottom: 50px;
+}
+    
+.f1 {
+  display: flex;
+  flex-direction: column;
+  min-width: 100px;
+  }
+    
+.f1 a {
+  text-decoration: none;
+  }
+
+  .footertext {
+    font-size:30px;
+  }
