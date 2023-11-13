@@ -1,0 +1,39 @@
+{
+    "excercises": {
+
+        "Easy": [
+        {          
+            "name": "L-sit",
+            "title": "L-sit",
+            "description": "The L-Sit, a cornerstone of calisthenics, epitomizes core strength and balance. This fundamental exercise challenges your muscles, demanding exceptional control and flexibility. Our concise guide offers step-by-step instructions and expert tips to master the L-Sit. Elevate your bodyweight training, sculpt a strong core, and redefine your fitness journey today!"
+        },
+        {
+            "name": "Pull-up",
+            "title": "Pull-up",
+            "description": "The pull-up is a simple yet powerful exercise where you pull your body up using a bar. It strengthens your arms, back, and shoulders, making you stronger. Our easy guide helps you learn the right way to do pull-ups, so you can build muscles and boost your overall strength effectively."
+        },
+        {
+            "name": "Push-up",
+            "title": "Push-up",
+            "description": "The push-up is a simple and fantastic exercise that makes your arms and chest strong. You start by lying down, then push your body up and down using your arms. Our easy guide shows you the right way to do push-ups, helping you build muscles and stay healthy. Let's get strong together!"
+        }
+
+        ],
+
+        "IM": [
+            {          
+                "name": "Muscle-up",
+                "title": "Muscle-up",
+                "description": "Muscle-up"
+            }
+        ],
+
+        "Hard": [
+            {          
+                "name": "Planche",
+                "title": "Planche",
+                "description": "Planche"
+            }
+        ]
+    }
+}
